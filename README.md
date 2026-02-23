@@ -1,11 +1,11 @@
-# 🚀 [项目名称：如 巨牛影视资源索引库 / JuniuTV-Resources]
+# 🚀 [项目名称：如 剧牛影视资源索引库 / JuniuTV-Resources]
 
 这是一个基于高质量影视资源索引的开源文档，旨在为广大影视爱好者提供 [2026最新高清电影] 与 [热门连载剧集] 的快速检索指南。
 
 ## 📌 核心资源导航
 为了保证访问速度，我们利用了分布式缓存技术，建议通过以下官方入口进入：
 
-官方主站：[巨牛影视 - 高清在线观看](https://www.juniutv.top)
+官方主站：[剧牛影视 - 高清在线观看](https://www.juniutv.top)
   最新更新：[2026热门影视专题](https://www.juniutv.top/index.php/label/new.html)
   全站索引：[SiteMap 站点地图](https://www.juniutv.top/sitemap.xml)
 
